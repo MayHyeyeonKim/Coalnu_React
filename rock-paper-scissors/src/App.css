@@ -1,0 +1,10 @@
+.main{
+  display: flex;
+  justify-content: center;
+}
+
+.choice-button{
+  display: flex;
+  justify-content: center;
+  gap:3px;
+}

@@ -3,7 +3,7 @@
   justify-content: center;
 }
 
-.choice-button{
+.button-main{
   display: flex;
   justify-content: center;
   gap:3px;

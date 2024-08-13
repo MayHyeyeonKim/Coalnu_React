@@ -5,7 +5,7 @@
 | --- | --- | --- | --- | --- |
 | Mon | 1. React Basics Lecture 1~5 | None | Easy | ✅|
 | Tue | 2. First Project: Rock-Paper-Scissors Game Lecture 1~4 | Submit the result up to Lecture 4 | Easy | ✅|
-| Wed | 2. First Project: Rock-Paper-Scissors Game Lecture 5~6 | Final result | Medium | ⏳|
+| Wed | 2. First Project: Rock-Paper-Scissors Game Lecture 5~6 | Final result | Medium | ✅|
 | Thu | 3. Class Components | Convert Rock-Paper-Scissors Game to Class Components | Easy | ⏳|
 | Fri | 4. React Lifecycle Lecture 1~2 | None | Easy | ⏳|
 | Sat | 5. Second Project: Weather App Lecture 1~6 | Submit the result up to Lecture 6 | Medium | ⏳|

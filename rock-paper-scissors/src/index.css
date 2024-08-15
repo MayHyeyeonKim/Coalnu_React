@@ -1,0 +1,36 @@
+.box-main{
+    margin-top:10px;
+    display: flex;
+    justify-content: center;
+}
+
+.box{
+    border: 10px solid rgb(124, 121, 121);
+    border-radius: 10%;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 10px;
+    opacity: 80%;
+}
+
+.win{
+    border: 10px solid rgb(237, 212, 168);
+    color: rgb(0,128,79)
+}
+
+.lose{
+    border: 10px solid rgb(249, 167, 167);
+    color: rgb(163,35,35)
+}
+
+.tie{
+    border: 10px solid rgb(132,204,203);
+    color: rgb(108, 106,106);
+}
+
+.item-img{
+    width: 400px
+}

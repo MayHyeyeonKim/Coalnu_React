@@ -8,8 +8,8 @@
 | Wed | 2. First Project: Rock-Paper-Scissors Game Lecture 5~6 | Final result | Medium | ✅|
 | Thu | 3. Class Components | Convert Rock-Paper-Scissors Game to Class Components | Easy |  ✅|
 | Fri | 4. React Lifecycle Lecture 1~2 | None | Easy |  ✅|
-| Sat | 5. Second Project: Weather App Lecture 1~6 | Submit the result up to Lecture 6 | Medium | ⏳|
-| Sun | 5. Second Project: Weather App Lecture 7~9 | Submit the final result | Medium | ⏳|
+| Sat | 5. Second Project: Weather App Lecture 1~6 | Submit the result up to Lecture 6 | Medium |  ✅|
+| Sun | 5. Second Project: Weather App Lecture 7~9 | Submit the final result | Medium |  ✅|
 
 ## Week 2: You Can Create Multiple Pages with React? 🎮🕹️
 

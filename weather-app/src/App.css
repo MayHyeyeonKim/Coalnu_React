@@ -1,0 +1,42 @@
+body {
+    background: url(https://codemyui.com/wp-content/uploads/2019/10/Simple-Weather-Animation-In-SVG.gif);
+    /* height: 100vh; */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.weather-card{
+    background-color: rgba(78, 88, 113, 0.7);
+      padding: 50px;
+      border: 2px solid #c6c6ca;
+      box-shadow: 5px 5px 10px rgba(78, 88, 113, 0.7);
+      border-radius: 20px;
+      max-width: 700px;
+      width:100%;
+      height: 300px;
+  }
+  .main-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    
+  }
+  .menu-container{
+    display: flex;
+      justify-content: center;
+      background-color: rgba(254, 239, 173, 0.5);
+      border-radius: 60px;
+      max-width: 700px;
+      width:100%;
+     padding: 30px;
+     margin-top: 30px;
+  
+  }
+  .menu-container Button{
+    margin-right:30px;
+  }
+  
+  .menu-container Button:hover{
+    background-color: #ffc107;
+  }

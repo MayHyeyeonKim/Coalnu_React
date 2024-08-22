@@ -18,7 +18,7 @@
 | Mon | Day Off |  |  | ✅|
 | Tue | 6. Router: How to Create Multi-Page Websites Lecture 1~6 | None | Easy | ✅|
 | Wed | 7. Third Project: Create an E-commerce Website Lecture 1~5 | Submit the result up to Lecture 5 | Medium |  ✅|
-| Thu | 7. Third Project: Create an E-commerce Website Lecture 6~9 | Submit the final result up to Lecture 9 | Medium | ⏳|
+| Thu | 7. Third Project: Create an E-commerce Website Lecture 6~9 | Submit the final result up to Lecture 9 | Medium | ✅|
 | Fri | 7. Third Project: Create an E-commerce Website Lecture 10~13 | Submit the final E-commerce website result (including challenges) | Hard | ⏳|
 | Sat | Day Off |  |  | ⏳|
 | Sun | 8. Redux: The Game Changer Lecture 1~6 | Submit the Redux Counter (including challenges) | Medium | ⏳|

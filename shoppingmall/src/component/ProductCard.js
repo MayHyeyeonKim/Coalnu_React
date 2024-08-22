@@ -8,7 +8,7 @@ const ProductCard = ({item}) => {
     }
     return (
     <div className="product-card" onClick={ShowDetail}>
-        <img src={item?.img} />
+        <img src={item?.img} alt="item-img"/>
         <div>{item?.choice === true ? "Consious choice" : ""}</div>
         <div>{item?.title}</div>
         <div>₩ {item?.price}</div>

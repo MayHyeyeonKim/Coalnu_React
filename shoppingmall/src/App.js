@@ -1,8 +1,12 @@
 import './App.css';
-import { Route, Routes } from 'react-router';
+import { Routes, Route, useNavigate } from "react-router-dom";
 import ProductAll from './page/ProductAll';
 import ProductDetail from './page/ProductDetail';
 import Login from './page/Login';
+import 'bootstrap/dist/css/bootstrap.min.css'
+import Navbar from './component/Navbar';
+import { useEffect, useState } from 'react';
+import PrivateRoute from './route/PrivateRoute';
 
 /**
  * 
@@ -17,15 +21,25 @@ import Login from './page/Login';
  * 8. 상품을 검색할 수 있다.
  */
 function App() {
+  const navigate = useNavigate()
+  const [authenticate, setAuthenticate] = useState(false)
+  useEffect(()=>{
+    console.log("app.js에서 authenticate: ", authenticate)
+    navigate("/")
+  },[authenticate])
   return (
-  <div>
+
+<div>
+    <Navbar />
     <Routes>
         <Route path="/" element={<ProductAll/>} />
-        <Route path="/login" element={<Login/>} />
-        <Route path="/product/:id" element={<ProductDetail/>} />
+        <Route path="/login" element={<Login setAuthenticate={setAuthenticate}/>} />
+        <Route path="/product/:id" element={<PrivateRoute authenticate={authenticate}/>} />
     </Routes>
-  </div>
+</div>
   );
 }
 
 export default App;
+
+// npx json-server --watch db.json --port 4000

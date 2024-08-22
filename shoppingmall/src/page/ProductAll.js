@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { Response } from '../../node_modules/whatwg-fetch/fetch';
 import ProductCard from "../component/ProductCard";
+import { Container, Row, Col } from 'react-bootstrap';
 
 const ProductAll = () => {
     const [productList, setProductList] = useState([]);
@@ -13,7 +14,13 @@ const ProductAll = () => {
     useEffect(()=>{
         getProducts();
     },[])
-    return <div><ProductCard /></div>;
+    return <div>
+        <Container>
+            <Row>
+                {productList.map((menu)=>(<Col lg={3}><ProductCard item={menu}/></Col>))}
+            </Row>
+        </Container>
+        </div>;
 };
 
 export default ProductAll

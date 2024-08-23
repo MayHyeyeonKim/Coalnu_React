@@ -9,6 +9,7 @@ const ProductAll = () => {
     const [query, setQuery] = useSearchParams();
     const getProducts = async()=>{
         // let url = `http://localhost:4000/products`
+        let searchQuery = query.get('q') || '';
         let url = `https://my-json-server.typicode.com/mayhyeyeonkim/react-coalnu/shoppingmall/products?q=${searchQuery}`
 
         let response = await fetch(url)

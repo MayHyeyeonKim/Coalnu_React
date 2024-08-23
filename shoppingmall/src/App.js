@@ -24,8 +24,8 @@ function App() {
   const navigate = useNavigate()
   const [authenticate, setAuthenticate] = useState(false)
   useEffect(()=>{
-    console.log("app.js에서 authenticate: ", authenticate)
-    navigate("/")
+    // console.log("app.js에서 authenticate: ", authenticate)
+    // navigate("/")
   },[authenticate])
   return (
 

@@ -21,7 +21,7 @@
 | Thu | 7. Third Project: Create an E-commerce Website Lecture 6~9 | Submit the final result up to Lecture 9 | Medium | ✅|
 | Fri | 7. Third Project: Create an E-commerce Website Lecture 10~13 | Submit the final E-commerce website result (including challenges) | Hard | ✅|
 | Sat | Day Off |  |  | ✅|
-| Sun | 8. Redux: The Game Changer Lecture 1~6 | Submit the Redux Counter (including challenges) | Medium | ⏳|
+| Sun | 8. Redux: The Game Changer Lecture 1~6 | Submit the Redux Counter (including challenges) | Medium | ✅|
 
 ## Week 3: Learn How Components Communicate with Each Other! 🛜
 

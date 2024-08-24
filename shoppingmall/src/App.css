@@ -41,3 +41,28 @@
 }
 
 /*ProductCard.js*/
+.product-card:hover{
+  transform: scale(1.03);
+  z-index: 1;
+}
+.hide{
+  visibility:hidden
+}
+
+.item-img{
+  width: 100%;
+}
+
+/*ProductDetail*/
+.product-img{
+  display: flex;
+  justify-content: flex-end;
+}
+.drop-down{
+  margin-top:20px;
+}
+
+.add-button{
+  margin-top:20px;
+  width: 100%;
+}

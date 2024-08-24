@@ -1,7 +1,6 @@
 import './App.css';
 import { Routes, Route, useNavigate } from "react-router-dom";
 import ProductAll from './page/ProductAll';
-import ProductDetail from './page/ProductDetail';
 import Login from './page/Login';
 import 'bootstrap/dist/css/bootstrap.min.css'
 import Navbar from './component/Navbar';
@@ -30,7 +29,7 @@ function App() {
   return (
 
 <div>
-    <Navbar />
+    <Navbar authenticate={authenticate} setAuthenticate={setAuthenticate}/>
     <Routes>
         <Route path="/" element={<ProductAll/>} />
         <Route path="/login" element={<Login setAuthenticate={setAuthenticate}/>} />

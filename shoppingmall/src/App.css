@@ -14,11 +14,22 @@
 
 .menu-list {
   display: flex;
+  flex-direction: row; 
   list-style-type: none; /* ul태그의 그 점 사라지게 하는 */
+}
+
+@media (max-width: 600px) { /* 화면 너비가 600px 이하일 때 */
+  .menu-list {
+   display: none;
+  }
+  .search-area {
+    margin-bottom: 20px;
+  }
 }
 
 .menu-list li {
   padding: 10px;
+  
 }
 
 .menu-area {

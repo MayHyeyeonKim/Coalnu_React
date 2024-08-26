@@ -27,7 +27,7 @@
 
 | Day | Lecture | Assignment | Difficulty | Submit |
 | --- | --- | --- | --- | --- |
-| Mon | 9. Fourth Project: Contact Page (Redux ver.) Lecture 1~8 | Complete the Contact Page | Medium | ⏳|
+| Mon | 9. Fourth Project: Contact Page (Redux ver.) Lecture 1~8 | Complete the Contact Page | Medium | ✅|
 | Tue | 10. Redux Middleware Lecture 1~6 | Submit the final result | Medium | ⏳|
 | Wed | Bonus Track: Use the Latest Redux - Redux Toolkit Bonus Track 2: createAsyncThunk | Submit the final result | Easy | ⏳|
 | Thu | 11. React Query Lecture 1~4 | None | Easy | ⏳|

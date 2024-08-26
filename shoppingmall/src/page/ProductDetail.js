@@ -1,13 +1,14 @@
 import React, { useEffect, useState } from "react";
-import { Container, Col, Row, Dropdown, Button } from "react-bootstrap";
 import { useParams } from "react-router-dom";
+import { Container, Col, Row, Dropdown, Button } from "react-bootstrap";
 
-const ProductDetail = () => {
-    let { id } = useParams();
+const ProductDetail = () => {;
     const [product, setProduct] = useState(null);
-    const [loading, setLoading] = useState(true);
-    const [error, setError] = useState(null);
-
+    console.log("product는? ", product)
+    const [loading, setLoading] = useState(false);
+    const [error, setError] = useState("");
+    let { id } = useParams()
+    
     const getProductDetail = async () => {
         const url = `https://my-json-server.typicode.com/mayhyeyeonkim/react-coalnu/products/${id}`;
         try {
@@ -32,14 +33,17 @@ const ProductDetail = () => {
     if (error) return <div>Error: {error}</div>;
 
     return (
-        <Container>
+        <Container className="product-container">
             <Row>
-                <Col className="product-img">
+                <Col xs={12} md={6} className="product-detail-img">
                     {product && <img src={product.img} alt={product.title} />}
                 </Col>
-                <Col>
+                <Col xs={12} md={6}>
                     <div>{product?.title}</div>
                     <div>{product?.price}</div>
+                    <div className="choice">
+                        {product?.choice ? "Conscious choice" : ""}
+                    </div>
                     <Dropdown className="drop-down">
                         <Dropdown.Toggle variant="outline-dark" id="dropdown-basic">
                             Select Size

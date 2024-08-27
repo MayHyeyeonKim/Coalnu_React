@@ -1,5 +1,7 @@
 let initialState = {
-    contactList:[]
+    contactList:[],
+    keyword: "",
+
 }
 
 function reducer(state=initialState, action){

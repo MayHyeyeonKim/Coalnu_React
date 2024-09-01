@@ -33,7 +33,7 @@
 | Thu | 11. React Query Lecture 1~4 | None | Easy | ✅|
 | Fri | 11. React Query Lecture 5~10 | None | Easy | ✅|
 | Sat | 12. (✨2024 Latest Update) Build a Netflix Clone Lecture 1~5 | Submit the result domain | Medium | ✅|
-| Sun | 12. (✨2024 Latest Update) Build a Netflix Clone Lecture 6~7 | Submit the result domain | Medium | ⏳|
+| Sun | 12. (✨2024 Latest Update) Build a Netflix Clone Lecture 6~7 | Submit the result domain | Medium | ✅|
 
 ## Week 4: The Intensive Week! Let's Give It All for the Final Week of React Lectures! 🔥
 

@@ -39,7 +39,7 @@
 
 | Day | Lecture | Assignment | Difficulty | Submit |
 | --- | --- | --- | --- | --- |
-| Mon | 12. (✨2024 Latest Update) Build a Netflix Clone Lecture 8~9 | Submit the result domain | Easy | ⏳|
+| Mon | 12. (✨2024 Latest Update) Build a Netflix Clone Lecture 8~9 | Submit the result domain | Easy | ✅|
 | Tue | 12. (✨2024 Latest Update) Build a Netflix Clone Lecture 10~12 | Submit the result domain | Medium | ⏳|
 | Wed | 12. (✨2024 Latest Update) Build a Netflix Clone Lecture 13~14 | Submit the result domain | Medium | ⏳|
 | Thu | 12. (✨2024 Latest Update) Build a Netflix Clone Lecture 15 |  | Hard | ⏳|

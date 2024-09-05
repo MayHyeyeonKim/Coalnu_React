@@ -41,9 +41,9 @@
 | --- | --- | --- | --- | --- |
 | Mon | 12. (✨2024 Latest Update) Build a Netflix Clone Lecture 8~9 | Submit the result domain | Easy | ✅|
 | Tue | 12. (✨2024 Latest Update) Build a Netflix Clone Lecture 10~12 | Submit the result domain | Medium | ✅|
-| Wed | 12. (✨2024 Latest Update) Build a Netflix Clone Lecture 13~14 | Submit the result domain | Medium | ⏳|
-| Thu | 12. (✨2024 Latest Update) Build a Netflix Clone Lecture 15 |  | Hard | ⏳|
-| Fri | 12. (✨2024 Latest Update) Build a Netflix Clone Lecture 15 |  | Hard | ⏳|
+| Wed | 12. (✨2024 Latest Update) Build a Netflix Clone Lecture 13~14 | Submit the result domain | Medium | ✅|
+| Thu | 12. (✨2024 Latest Update) Build a Netflix Clone Lecture 15 |  | Hard | ✅|
+| Fri | 12. (✨2024 Latest Update) Build a Netflix Clone Lecture 15 |  | Hard | ✅|
 | Sat | 12. (✨2024 Latest Update) Build a Netflix Clone Lecture 15 | Submit the final result | Hard | ⏳|
 | Sun | Group Project OT 9 PM~11 PM | OT link to be announced on Slack channel |  | ⏳|
 

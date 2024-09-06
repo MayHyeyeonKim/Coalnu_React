@@ -44,8 +44,8 @@
 | Wed | 12. (✨2024 Latest Update) Build a Netflix Clone Lecture 13~14 | Submit the result domain | Medium | ✅|
 | Thu | 12. (✨2024 Latest Update) Build a Netflix Clone Lecture 15 |  | Hard | ✅|
 | Fri | 12. (✨2024 Latest Update) Build a Netflix Clone Lecture 15 |  | Hard | ✅|
-| Sat | 12. (✨2024 Latest Update) Build a Netflix Clone Lecture 15 | Submit the final result | Hard | ⏳|
-| Sun | Group Project OT 9 PM~11 PM | OT link to be announced on Slack channel |  | ⏳|
+| Sat | 12. (✨2024 Latest Update) Build a Netflix Clone Lecture 15 | Submit the final result | Hard | ✅|
+| Sun | Group Project OT 9 PM~11 PM | OT link to be announced on Slack channel |  | ✅|
 
 ## Week 5: The Week of the React Group Project 👪
 

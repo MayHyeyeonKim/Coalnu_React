@@ -51,10 +51,10 @@
 
 | Day | Lecture | Assignment | Difficulty | Submit |
 | --- | --- | --- | --- | --- |
-| Mon |  | Define team project topic and roles |  | ⏳|
-| Tue |  | Team Project |  | ⏳|
-| Wed |  | Team Project |  | ⏳|
-| Thu |  | Team Project |  | ⏳|
-| Fri |  | Team Project |  | ⏳|
-| Sat |  | Team Project |  | ⏳|
+| Mon |  | Define team project topic and roles |  | ✅|
+| Tue |  | Team Project |  | ✅|
+| Wed |  | Team Project |  | ✅|
+| Thu |  | Team Project |  | ✅|
+| Fri |  | Team Project |  | ✅|
+| Sat |  | Team Project |  | ✅|
 | Sun | Group Project Presentation 8 PM~11 PM | Submit the final team project result |  | ⏳|

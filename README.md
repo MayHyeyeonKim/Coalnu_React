@@ -57,4 +57,4 @@
 | Thu |  | Team Project |  | ✅|
 | Fri |  | Team Project |  | ✅|
 | Sat |  | Team Project |  | ✅|
-| Sun | Group Project Presentation 8 PM~11 PM | Submit the final team project result |  | ⏳|
+| Sun | Group Project Presentation 8 PM~11 PM | Submit the final team project result |  | ✅|
